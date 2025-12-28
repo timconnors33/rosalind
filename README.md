@@ -1,1 +1,1 @@
-# rosalind-armory
+# rosalind
